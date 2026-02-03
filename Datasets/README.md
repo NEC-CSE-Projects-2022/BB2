@@ -1,12 +1,14 @@
 ## 📁 Dataset
 
-The dataset used for this project is large (~1.7GB), so it is hosted on Google Drive instead of GitHub.
+The dataset used in this project is very large, so it is hosted on Google Drive instead of GitHub.
 
-Download Dataset:
-🔗 [Dataset](https://drive.google.com/drive/folders/13dkctv-aNRD-d4EIRivHUMr0S1B2Y_W2)
+🔗 **[Download Dataset](https://drive.google.com/drive/folders/13dkctv-aNRD-d4EIRivHUMr0S1B2Y_W2)**
 
-Contents:
-- Train Dataset
-- Validation Dataset
+### 📦 Dataset Includes
+- **Train Dataset** – For training the model  
+- **Validation Dataset** – For tuning the model  
+- **Test Dataset** – For evaluating performance  
 
-- Test Dataset
+---
+
+🔗 **[Original Dataset](https://drive.google.com/drive/folders/13dkctv-aNRD-d4EIRivHU)** – Created by the author(s) of the research paper that inspired this project.
