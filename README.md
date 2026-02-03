@@ -1,11 +1,11 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf67700f-4e5d-46bc-ad8e-bf739bef8a25" />
 # BB2 – YOLO-HF: A Compact System for Fire Detection and Alerting
 
 ## Team Info
 - 22471A0592 — **Yaswanth Gunda** ( [LinkedIn](https://www.linkedin.com/in/yaswanthgunda0068/) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A0589 — **Ranjith Kumar Garikapati** ( [LinkedIn]() )
+- 22471A0589 — **Ranjith Kumar Garikapati** ( [LinkedIn](https://www.linkedin.com/in/ranjith-kumar-704864276/) )
 _Work Done: xxxxxxxxxx_
 
 - 22471A05A8 — **Bala Muneendra Chilaka** ( [LinkedIn](https://www.linkedin.com/in/chilaka31/) )
@@ -22,9 +22,9 @@ Fire incidents demand rapid, reliable detection. Existing vision-based methods s
 ---
 
 ## Paper Reference (Inspiration)
-👉 **[Paper Title YOLO-HF: Early Detection of Home Fires Using YOLO
-  – Author Names Bo Peng And Tae-kook Kim
- ]([Paper URL here](https://ieeexplore.ieee.org/document/10985749))**
+👉 **YOLO-HF: Early Detection of Home Fires Using YOLO
+  – Bo Peng And Tae-kook Kim
+ ([https://ieeexplore.ieee.org/document/10985749]())**
 Original conference/IEEE paper used as inspiration for the model.
 
 ---
