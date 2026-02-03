@@ -2,16 +2,16 @@
 # Team Number – Project Title
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0592 — **Yaswanth Gunda** ( [LinkedIn](https://www.linkedin.com/in/yaswanthgunda0068/) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0589 — **Ranjith Kumar Garikapati** ( [LinkedIn]() )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05A8 — **Bala Muneendra Chilaka** ( [LinkedIn](https://www.linkedin.com/in/chilaka31/) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0576 — **Tarun Bellamkonda** ( [LinkedIn](https://www.linkedin.com/in/tarun-bellamkonda-2383aa31b/) )
 _Work Done: xxxxxxxxxx_
 
 ---
