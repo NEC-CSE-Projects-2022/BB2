@@ -125,6 +125,6 @@ The trained model was then deployed into a real-time monitoring system that capt
 ---
 
 ## Deployment Info
-*
-The trained YOLO-HF model was saved as a `.pt` file and deployed on a local system for real-time fire and smoke detection using a live camera. When fire is detected, the system automatically sends an email with the captured image and makes a call to alert the owner, enabling quick response and improving safety.*
+The trained YOLO-HF model was saved as a `.pt` file and deployed on a local system for real-time fire and smoke detection using a live camera. When fire is detected, the system automatically sends an email with the captured image and makes a call to alert the owner, enabling quick response and improving safety.
+
 ---
