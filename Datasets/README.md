@@ -11,4 +11,5 @@ The dataset used in this project is very large, so it is hosted on Google Drive 
 
 ---
 
-🔗 **[Original Dataset](https://drive.google.com/drive/folders/13dkctv-aNRD-d4EIRivHU)** – Created by the author(s) of the research paper that inspired this project.
+🔗 **[Original Dataset](https://github.com/PengBo0/Home-fire-dataset)** – Created by the author(s) of the research paper that inspired this project.
+
