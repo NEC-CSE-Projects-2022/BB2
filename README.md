@@ -23,16 +23,7 @@ Fire incidents demand rapid, reliable detection. Existing vision-based methods s
 ## Paper Reference (Inspiration)
 👉 **YOLO-HF: Early Detection of Home Fires Using YOLO
   – Bo Peng And Tae-kook Kim
- ([](https://ieeexplore.ieee.org/document/10985749))**
-Original conference/IEEE paper used as inspiration for the model.
-
-## Paper Reference (Inspiration)
-
-👉 **[Paper Title YOLO-HF: Early Detection of Home Fires Using YOLO
-– Author Names Bo Peng and Tae-Kook Kim
-](https://ieeexplore.ieee.org/document/10985749)**
-Original conference/IEEE paper used as inspiration for the model.
-
+ ([Paper Link](https://ieeexplore.ieee.org/document/10985749))**
 
 ---
 
