@@ -96,16 +96,35 @@ The model was tested after training to ensure it performs accurately in real-wor
 ---
 
 ## Results
-xxxxxxxxxx
+The YOLO-HF model was successfully trained on 3,900 images and evaluated using standard metrics such as Precision, Recall, F1-score, and mAP. The results showed strong detection accuracy with fewer false alarms and missed detections, proving the model’s reliability for early fire and smoke identification.
+
+Compared to the baseline YOLOv5s and other recent detection models, YOLO-HF delivered better overall performance while maintaining a lightweight design suitable for real-time use. Threshold tuning further reduced false positives without affecting detection sensitivity, making the system more stable in practical environments.
+
+Validation plots such as the confusion matrix and Precision–Recall curve confirmed that the model can accurately localize fire and smoke across different conditions. Testing on unseen data demonstrated good generalization capability.
+
+The trained model was then deployed into a real-time monitoring system that captures live video, detects fire instantly, and sends alerts through email with an attached image along with an automated call. The final system operates smoothly on a local setup, confirming its readiness for real-world safety applications.
 
 ---
 
 ## Limitations & Future Work
-xxxxxxxxxx
+**Limitations:**
+
+* The model was trained on a limited dataset, so performance may vary in highly different environments.
+* Detection accuracy can reduce in low-light conditions, dense smoke, or when reflections are present.
+* The system currently uses only RGB camera input, which may affect robustness compared to thermal or multi-sensor solutions.
+* Testing was mainly focused on controlled scenarios, so large-scale real-world validation is still needed.
+
+**Future Work:**
+
+* Train and evaluate the model on larger and more diverse datasets to improve reliability.
+* Integrate additional sensors such as thermal cameras or IoT devices for better detection in poor visibility.
+* Optimize the model using compression techniques so it can run efficiently on edge devices.
+* Expand the system for wider applications such as industrial safety and wildfire monitoring.
+* Further improve the model to detect very small flames faster and reduce false alerts.
 
 ---
 
 ## Deployment Info
-xxxxxxxxxx
 
+The trained YOLO-HF model was saved as a `.pt` file and deployed on a local system for real-time fire and smoke detection using a live camera. When fire is detected, the system automatically sends an email with the captured image and makes a call to alert the owner, enabling quick response and improving safety.
 ---
